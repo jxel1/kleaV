@@ -1,0 +1,43 @@
+h1{
+    color:beige;
+    background-color: burlywood;
+    font-weight: normal;
+    text-align: center;
+}
+
+.main{
+    background-image: url('./valentine.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    text-align: center;
+    height: 350px;
+}
+
+.yesbtn{
+    display: block;
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.no{
+    background-image: url('./sadjoel.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+}
+
+.yes{
+    background-image: url(./kleh.jpg);
+    background-size: 1000px 1000px;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+}
